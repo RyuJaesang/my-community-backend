@@ -1,3 +1,12 @@
+---
+name: Fix Bug Pull Request
+about: When bug is fixed
+title: "[Bug fix template]"
+labels: ''
+assignees: ''
+
+---
+
 ## Bug description
 Clearly and concisely describe the problems
 
