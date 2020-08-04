@@ -9,4 +9,4 @@ install:
   - travis_wait 1 pip install -r requirements.txt
 # command to run tests
 script:
-  - python manage.py runserver
+  - pytest
